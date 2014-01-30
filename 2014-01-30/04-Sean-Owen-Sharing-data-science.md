@@ -1,9 +1,22 @@
 ### Sharing Data Science
 
+Fun definitions:
+
 *Data Science is statistics on a Mac.*
 *A data scientist is better at statistics than any software engineer and better at software than any statistician*
 
-Finding insights in data
-Applied statistics at large scale
-Predicting the future from data
+More relistic ones:
 
+* Finding insights in data
+* Applied statistics at large scale
+* Predicting the future from data
+
+Sure its R, Tableau, but its more than that. People taking Cloudera class were 80% engineers, 20% statisticians. Equates to how they view it, its 80% an engineering problem. 
+
+### 2014 - Lab to Factory
+
+### Exploratory -> Predictive/operational analytics
+
+Environments -> Clusters
+Machine Learning -> Data pipelines
+Model Accuracy -> Queries per second
