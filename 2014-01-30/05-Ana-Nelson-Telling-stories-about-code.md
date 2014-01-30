@@ -32,4 +32,8 @@ Science is unintuitive. We have natural heuristics to make quick decisions, but 
 
 * Theory of mind - Think about what we know, but make assessments about what others know
 
+### Solving the story crisis
 
+* Yes, tell better stories
+* Yes, work on own biases
+* Yes, use technology to provide computational reproducability
