@@ -17,6 +17,14 @@ Sure its R, Tableau, but its more than that. People taking Cloudera class were 8
 
 ### Exploratory -> Predictive/operational analytics
 
+Libraries -> Servers
 Environments -> Clusters
 Machine Learning -> Data pipelines
+Statisticians -> Engineers
 Model Accuracy -> Queries per second
+
+### Gaps to fill and goals
+
+Continuous model building
+Real time query
+
