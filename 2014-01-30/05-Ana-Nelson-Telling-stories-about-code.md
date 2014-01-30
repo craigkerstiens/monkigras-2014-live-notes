@@ -17,3 +17,19 @@ Dexy -
 * Data, Code, Workflow -> Document environment
 
 Final result gives a value. 
+
+### Not only problem
+
+Its not just computational reproducability. Starts really at asking the right question. 
+
+### How are we tricked by stories
+
+Science is unintuitive. We have natural heuristics to make quick decisions, but when dealing with large data and details we're often wrong. If story quickly appeals to our intuition we can agree and let go even if wrong.
+
+*Book referrenced [on the origin of stories](http://www.amazon.com/On-Origin-Stories-Evolution-Cognition/dp/0674057112?ref=as_li_tf_tl?ie=UTF8&tag=mypred-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0932633439)*
+
+### What do stories teach us
+
+* Theory of mind - Think about what we know, but make assessments about what others know
+
+
