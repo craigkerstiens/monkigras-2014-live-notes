@@ -38,4 +38,23 @@ Have to interface with:
 * Sales
 * Support
 * Engineering
-* External Developers
+
+They're the bridge between internal and external developers
+
+### Their Focus
+
+1. Their word is their currency
+2. Build their company brand, their product brand, and their own brand
+3. They need to be a deep leader in 1 or 2 areas
+4. They live to make develoeprs successful on their product
+
+### Care and Feeding
+
+1. Get them outside on a regular basis
+2. Feel connected to the product
+3. Mix with engineers
+4. Exposure to new technologies
+5. Need to teach others
+6. They need to write
+
+http://talks.thesteve0.com/EvangelistManifesto.html
