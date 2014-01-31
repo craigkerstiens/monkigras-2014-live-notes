@@ -43,3 +43,8 @@ SysAdmins choose:
 * Riak
 
 DevOps - Agile development brought through to production
+
+### Data Science
+
+General drop in use of graphical tools, whereas uptake on using programming languages for this. Uptake in R and Python. You can't find and hire "data scientist".
+
