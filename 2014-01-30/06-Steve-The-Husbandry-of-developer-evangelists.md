@@ -58,4 +58,4 @@ They're the bridge between internal and external developers
 6. They need to write
 
 http://talks.thesteve0.com/EvangelistManifesto.html
-https://twitter.com/TheSteve0
+[@TheSteve0](https://twitter.com/TheSteve0)
