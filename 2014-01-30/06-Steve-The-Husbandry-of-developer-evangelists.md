@@ -29,7 +29,7 @@
 * Ability to be funny
 * Doesn't take themselves too seriously
 
-### Developer evangelists 
+### Developer evangelists
 
 Have to interface with:
 
@@ -58,3 +58,4 @@ They're the bridge between internal and external developers
 6. They need to write
 
 http://talks.thesteve0.com/EvangelistManifesto.html
+https://twitter.com/TheSteve0
