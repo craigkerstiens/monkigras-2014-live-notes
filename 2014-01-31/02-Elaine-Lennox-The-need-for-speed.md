@@ -20,3 +20,11 @@ Lessons from trying to get continuous delivery going with clients:
 5. The rollback debate
 6. Feedback = king. App insight = essential. (Rely on your users to improve the app, not to tell you it doesn't work.)
 7. You can't automate a culture of quality.
+
+Displayed some stats that show continuous delivery gets results...
+
+* Increase in revenue
+* Increased collaboration between departments
+* Reduced time to market
+* Improved quality of deployed applications
+* Reduction in spend on development and operations
