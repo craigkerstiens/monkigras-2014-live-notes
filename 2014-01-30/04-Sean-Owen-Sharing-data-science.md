@@ -2,6 +2,7 @@
 
 Fun definitions:
 
+*A data scientist is a statistician who lives in San Francisco
 *Data Science is statistics on a Mac.*
 *A data scientist is better at statistics than any software engineer and better at software than any statistician*
 
@@ -11,7 +12,7 @@ More relistic ones:
 * Applied statistics at large scale
 * Predicting the future from data
 
-Sure its R, Tableau, but its more than that. People taking Cloudera class were 80% engineers, 20% statisticians. Equates to how they view it, its 80% an engineering problem. 
+Sure its R, Tableau, but its more than that. People taking Cloudera class were 80% engineers, 20% statisticians. Equates to how they view it, its 80% an engineering problem.
 
 ### 2014 - Lab to Factory
 
